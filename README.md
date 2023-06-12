@@ -1,16 +1,7 @@
-# dicer
+# Dicer
 
-A new Flutter project.
+First Flutter App Project
 
-## Getting Started
+## What is it?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dicer is a simple, "Hello World"-like app for rolling dice. It's perfect for those moments when you want to play a board game but don't have any dice at hand.
